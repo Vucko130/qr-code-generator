@@ -3,7 +3,7 @@
 Simple app to generate and download a QR code that can be used to share a link.
 
 
-## [Live Demo](https://mian-ali.github.io/qrcode-generator/)
+## [Live Demo]((https://vucko130.github.io/qr-code-generator/)
 
 MIT License
 
