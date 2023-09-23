@@ -1,3 +1,10 @@
+# QR Code Generator
+
+Simple app to generate and download a QR code that can be used to share a link.
+
+
+## [Live Demo](https://mian-ali.github.io/qrcode-generator/)
+
 MIT License
 
 Copyright (c) 2022 Ali Ahmad
@@ -19,3 +26,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
